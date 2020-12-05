@@ -30,8 +30,8 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 ```bash
 # Clone this repository
 git clone https://https://github.com/listen2099/electron-quick-start
-# install R-Portable in R-Portable-Win or R-Portable-Mac
-[R-Portable](https://sourceforge.net/projects/rportable/files/R-Portable/3.6.3/)
+# Install R-Portable in R-Portable-Win or R-Portable-Mac
+https://sourceforge.net/projects/rportable/files/R-Portable/3.6.3/
 # Install Electron Packager (if first time)
 npm install electron-packager -g 
 # Go into the repository
