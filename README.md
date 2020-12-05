@@ -1,7 +1,7 @@
 #
 # ----------------------------------------------
 
-***This is the first attempt to combine Electron with [R-Portable](https://sourceforge.net/projects/rportable/files/R-Portable/) (version 3.4.0) and [RStudio Shiny](https://cran.r-project.org/web/packages/shiny/index.html) package to deliver Electron Applications that run standalone with R and Shiny.***
+***This is the first attempt to combine Electron with [R-Portable](https://sourceforge.net/projects/rportable/files/R-Portable/3.6.3/) (version 3.6.3) and [RStudio Shiny](https://cran.r-project.org/web/packages/shiny/index.html) package to deliver Electron Applications that run standalone with R and Shiny.***
 
 # ----------------------------------------------
 
