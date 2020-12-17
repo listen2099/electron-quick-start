@@ -88,7 +88,7 @@ function createWindow () {
           }
           loading.hide()
           loading.close()
-
+          mainWindow.loadURL('http://127.0.0.1:'+port)
         }, 2000)
 
       })
