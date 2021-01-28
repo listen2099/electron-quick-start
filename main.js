@@ -69,7 +69,7 @@ function createWindow () {
 
     loading.once('show', () => {
       console.log(new Date().toISOString()+'::show loading')
-      mainWindow = new BrowserWindow({webPreferences:{nodeIntegration:false}, show:false, width: 800, height: 600, title:""})
+      mainWindow = new BrowserWindow({webPreferences:{nodeIntegration:false}, show:false, width: 1600, height: 1200, title:""})
       /*
         mainWindow = new BrowserWindow({
           width: 800,
@@ -89,7 +89,7 @@ function createWindow () {
           loading.hide()
           loading.close()
           mainWindow.loadURL('http://127.0.0.1:'+port)
-        }, 2000)
+        }, 10000)
 
       })
       console.log(port)
